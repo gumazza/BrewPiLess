@@ -328,7 +328,7 @@
     "script_setup_restoring": "Restaurando...",
     "script_setup_retrieving": "Recuperando...",
     "script_setup_erase_all_setting": "Apagar todos os ajustes?",
-    "setup_update_timeout": "Timeout!",
+    "setup_update_timeout": "Tempo esgotado!",
 
     "__script_viewer_js": "script-viewer.js",
     "script_viewer_invalid_log": "Registro inv&aacute;lido!",
@@ -339,10 +339,10 @@
     "script_fail_update_formula": "Falha update f&oacute;rmula.",
 
     "_BPLLogViewer_htm": "BPLLogViewer.htm",
-    "log_start_since": "Since",
-    "log_elapsed": "Elapsed",
-    "log_crop_to": "Crop to",
-    "log_export": "Export",
+    "log_start_since": "Desde",
+    "log_elapsed": "Decorrido",
+    "log_crop_to": "Cortar para",
+    "log_export": "Exportar",
 
     "__chart_js": "chart.js",
     "chart_state_label": "Estado",
